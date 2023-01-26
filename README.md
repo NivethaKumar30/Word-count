@@ -27,8 +27,8 @@ Step 6:
 Calling the function and Printing the number of word
 ## PROGRAM:
 ```
-#DEVELOPED BY:K.NIVETHA
-#REFERENCE NO:22009186
+#Developed by : K.NIVETHA
+#Reference number: 22009186
 num=0
 with open("git.txt","r") as f1:
     for i in f1:
