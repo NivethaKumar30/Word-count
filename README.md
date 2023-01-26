@@ -36,8 +36,8 @@ with open('shara.txt','r') as file1:
         num_words += len(word)
 print('num of words={}'.format(num_words)) 
 ```
-### OUTPUT:
 
+### OUTPUT:
 
 
 ## RESULT:
