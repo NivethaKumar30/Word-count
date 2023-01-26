@@ -39,6 +39,7 @@ print("The number of words are in the file is ",num)
 
 ### OUTPUT:
 
+![GIT](https://user-images.githubusercontent.com/119559844/214970393-4344c76e-7378-4d6d-ab8f-a0d59b22f6a0.png)
 
 
 
