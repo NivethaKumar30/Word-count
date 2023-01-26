@@ -27,19 +27,19 @@ Step 6:
 Calling the function and Printing the number of word
 ## PROGRAM:
 ```
-#Developed by: K.NIVETHA
-#Register num: 22009186
-num_words=0
-with open('shara.txt','r') as file1:
-    for i in file1:
+#DEVELOPED BY:K.NIVETHA
+#REFERENCE NO:22009186
+num=0
+with open("git.txt","r") as f1:
+    for i in f1:
         word=i.split()
-        num_words += len(word)
-print('num of words={}'.format(num_words)) 
+        num += len(word)
+print("The number of words are in the file is ",num)
 ```
 
 ### OUTPUT:
 
-![COPY](https://user-images.githubusercontent.com/119559844/214964788-a276669a-9d72-4044-804d-f6d9cacc4f9d.png)
+
 
 
 ## RESULT:
