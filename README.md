@@ -39,6 +39,8 @@ print('num of words={}'.format(num_words))
 
 ### OUTPUT:
 
+![COPY](https://user-images.githubusercontent.com/119559844/214964788-a276669a-9d72-4044-804d-f6d9cacc4f9d.png)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
